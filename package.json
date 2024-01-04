@@ -1,5 +1,5 @@
 {
-  "name": "random-qoutes-generator",
+  "name": "get-quote-generator",
   "version": "2.0.0",
   "description": "it will give you quotes",
   "main": "index.js",
